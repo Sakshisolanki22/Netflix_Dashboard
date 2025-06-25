@@ -1,2 +1,3 @@
-# Netflix_Dashboard
-This Netflix dashboard visually analyzes content by type, genre, rating, country, and release year. It shows that movies dominate, with TV-MA and TV-14 being the most common ratings. The U.S. leads in content production, and genres like documentaries and stand-up comedy are most popular.
+## Description
+This Netflix dashboard visually presents key insights about its content library, including movies and TV shows. It highlights the distribution by type, genre, rating, release year, and country. The dashboard also shows content trends over time and reveals the most common genres and ratings, helping understand what kind of content dominates Netflix globally.
+## Datasets
